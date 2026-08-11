@@ -1,8 +1,8 @@
 title: Pedro Henrique Santana de Aragão
-description: Offensive Security Portifolio
+description: Offensive Security Portfolio
 theme: jekyll-theme-minimal
 
-url:"https://pedro18102601.github.io"
-baseurl:""
+url: "https://pedro18102601.github.io"
+baseurl: ""
 
 show_downloads: false
