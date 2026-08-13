@@ -61,4 +61,4 @@ My goal is to develop strong foundations in systems, networking, programming and
 ## Contact
 
 - [GitHub](https://github.com/pedro18102601)
-- LinkedIn — (https://www.linkedin.com/in/pedro-santana-0035aa31a/)
+- [LinkedIn](https://www.linkedin.com/in/pedro-santana-0035aa31a/)
