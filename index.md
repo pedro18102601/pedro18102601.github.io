@@ -32,7 +32,7 @@ Fail-closed network environment created using **Kali Linux, WireGuard and nftabl
 
 **Concepts:** Default Deny · Fail Closed · Least Privilege · Egress Filtering · Network Isolation
 
-> Full project documentation coming soon.
+[View full project documentation](/projects/kali-vpn-killswitch/)
 
 ---
 
