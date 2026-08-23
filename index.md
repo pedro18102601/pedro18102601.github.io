@@ -24,15 +24,15 @@ I am currently developing my skills through practical labs, CTFs, technical proj
 
 ---
 
-## Featured Projects
+## Projects
 
-### Kali Linux VPN Kill Switch
+I document practical projects developed during my studies in Offensive Security, Linux, networking and cybersecurity.
 
-Fail-closed network environment created using **Kali Linux, WireGuard and nftables**, designed to prevent the virtual machine from accessing the internet outside the VPN tunnel.
+These projects include hands-on work with security tooling, network concepts, Python development, Linux environments and technical documentation.
 
-**Concepts:** Default Deny · Fail Closed · Least Privilege · Egress Filtering · Network Isolation
+Each project page focuses on the objective, implementation process, technical decisions, testing and lessons learned.
 
-[View full project documentation](/projects/kali-vpn-killswitch/)
+[View all projects →](/projects/)
 
 ---
 
@@ -61,4 +61,4 @@ My goal is to develop strong foundations in systems, networking, programming and
 ## Contact
 
 - [GitHub](https://github.com/pedro18102601)
-- [LinkedIn](https://www.linkedin.com/in/pedro-santana-0035aa31a/)
+- LinkedIn — (https://www.linkedin.com/in/pedro-santana-0035aa31a/)
