@@ -38,4 +38,31 @@ A virtualized Kali Linux environment configured to prevent network traffic from 
 
 ---
 
+---
+
+## Python Port Scanner
+
+**Status:** Completed
+
+A simple TCP port scanner built in Python to understand how TCP connection scanning works and to practice basic network connectivity concepts.
+
+### Technologies
+
+- Python
+- socket
+- argparse
+- ipaddress
+
+### What I practiced
+
+- Building a command-line tool with `argparse`
+- Validating IPv4 addresses with `ipaddress`
+- Parsing and validating user-provided ports
+- Creating TCP sockets with Python
+- Understanding how a TCP connection attempt can indicate whether a port is open or closed
+
+### Repository
+
+[View repository](https://github.com/pedro18102601/port-scanner-python)
+
 _More projects will be added as my studies progress._
