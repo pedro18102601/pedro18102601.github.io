@@ -21,10 +21,10 @@ A Python script that automates bypassing broken brute-force protection on a 2FA 
 ### Technologies
 
 - Python
-- `requests` (`requests.Session()`)
-- `argparse`
-- `logging`
-- `re`
+- requests (requests.Session())
+- argparse
+- logging
+- re
 
 ### What I practiced
 
