@@ -12,6 +12,35 @@ The goal is to document not only the final result, but also the problem, technic
 
 ---
 
+## 2FA Brute-Force Bypass (Broken Rate-Limiting)
+
+**Status:** Completed
+
+A Python script that automates bypassing broken brute-force protection on a 2FA verification flow, built while solving an expert-level lab from PortSwigger's Web Security Academy. The application allowed only 2 code attempts per session before invalidating it, but imposed no limit on how many times the login cycle itself could be repeated — the script exploits this by cycling through re-authentication automatically until the correct 4-digit code is found.
+
+### Technologies
+
+- Python
+- `requests` (`requests.Session()`)
+- `argparse`
+- `logging`
+- `re`
+
+### What I practiced
+
+- Identifying and exploiting a logic flaw in session-scoped brute-force protection
+- Managing HTTP session state and CSRF token lifecycles across multi-step authentication flows
+- Extracting values from HTML responses with regex
+- Modeling brute-force success probabilistically (geometric distribution) to estimate expected attack duration
+- Structuring error handling to distinguish transient network failures from unexpected application behavior during long-running, unsupervised execution
+- Structured, timestamped logging to both console and file for auditing multi-hour runs
+
+### Repository
+
+[View repository](https://github.com/pedro18102601/2fa-bruteforce-bypass-python)
+
+---
+
 ## Kali Linux — Fail-Closed VPN Environment
 
 **Status:** Completed
@@ -62,35 +91,6 @@ A simple TCP port scanner built in Python to understand how TCP connection scann
 ### Repository
 
 [View repository](https://github.com/pedro18102601/port-scanner-python)
-
----
-
-## 2FA Brute-Force Bypass (Broken Rate-Limiting)
-
-**Status:** Completed
-
-A Python script that automates bypassing broken brute-force protection on a 2FA verification flow, built while solving an expert-level lab from PortSwigger's Web Security Academy. The application allowed only 2 code attempts per session before invalidating it, but imposed no limit on how many times the login cycle itself could be repeated — the script exploits this by cycling through re-authentication automatically until the correct 4-digit code is found.
-
-### Technologies
-
-- Python
-- `requests` (`requests.Session()`)
-- `argparse`
-- `logging`
-- `re`
-
-### What I practiced
-
-- Identifying and exploiting a logic flaw in session-scoped brute-force protection
-- Managing HTTP session state and CSRF token lifecycles across multi-step authentication flows
-- Extracting values from HTML responses with regex
-- Modeling brute-force success probabilistically (geometric distribution) to estimate expected attack duration
-- Structuring error handling to distinguish transient network failures from unexpected application behavior during long-running, unsupervised execution
-- Structured, timestamped logging to both console and file for auditing multi-hour runs
-
-### Repository
-
-[View repository](https://github.com/pedro18102601/2fa-bruteforce-bypass-python)
 
 ---
 
