@@ -14,7 +14,7 @@ The goal is to document not only the final result, but also the problem, technic
 
 ## Kali Linux — Fail-Closed VPN Environment
 
-**Status:** Documentation in progress
+**Status:** Completed
 
 A virtualized Kali Linux environment configured to prevent network traffic from leaving the machine outside an encrypted VPN tunnel.
 
@@ -34,7 +34,7 @@ A virtualized Kali Linux environment configured to prevent network traffic from 
 - Egress Filtering
 - Least Privilege
 
-[View project documentation →](#)
+[View project documentation →](https://pedro18102601.github.io/projects/kali-vpn-killswitch/)
 
 ---
 

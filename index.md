@@ -42,6 +42,8 @@ I am currently building practical experience through cybersecurity labs and Capt
 
 Write-ups and technical notes will be published here as I progress.
 
+[View all content →](/write-ups/)
+
 ---
 
 ## Research & Articles
@@ -61,4 +63,4 @@ My goal is to develop strong foundations in systems, networking, programming and
 ## Contact
 
 - [GitHub](https://github.com/pedro18102601)
-- LinkedIn — (https://www.linkedin.com/in/pedro-santana-0035aa31a/)
+- [LinkedIn](https://www.linkedin.com/in/pedro-santana-0035aa31a/)
