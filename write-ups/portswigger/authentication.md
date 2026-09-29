@@ -4,12 +4,6 @@ title: "PortSwigger — Authentication"
 permalink: /write-ups/portswigger/authentication/
 ---
 
-# [Pedro Henrique Santana de Aragão](https://pedro18102601.github.io/)
-
-Offensive Security Portfolio
-
-[View My GitHub Profile](https://github.com/pedro18102601)
-
 # PortSwigger — Authentication
 
 ## Overview
