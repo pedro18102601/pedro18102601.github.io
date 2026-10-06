@@ -3,10 +3,6 @@ layout: default
 title: Pedro Henrique Santana
 ---
 
-# Pedro Henrique Santana
-
-**Information Systems @ UFU | Offensive Security**
-
 Information Systems student focused on Offensive Security, with interests in Linux, Networking, Web Security, Pentesting and Security Engineering.
 
 I am currently developing my skills through practical labs, CTFs, technical projects and continuous study, documenting my progress and the concepts I learn along the way.
