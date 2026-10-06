@@ -13,3 +13,4 @@ Technical notes and write-ups from cybersecurity labs.
 - [Information Disclosure](/write-ups/portswigger/information-disclosure/)
 - [Path Traversal](/write-ups/portswigger/path-traversal)
 - [Authentication](/write-ups/portswigger/authentication)
+- [Access Control](/write-ups/portswigger/access-control)
