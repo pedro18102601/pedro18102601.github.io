@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "PortSwigger — Authentication"
-permalink: /write-ups/portswigger/authentication/
+title: "PortSwigger — Access Control"
+permalink: /write-ups/portswigger/access-control/
 ---
 
 # PortSwigger — Access Control
