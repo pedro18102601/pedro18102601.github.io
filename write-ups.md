@@ -14,3 +14,4 @@ Technical notes and write-ups from cybersecurity labs.
 - [Path Traversal](/write-ups/portswigger/path-traversal)
 - [Authentication](/write-ups/portswigger/authentication)
 - [Access Control](/write-ups/portswigger/access-control)
+- [Sql-Injection](/write-ups/portswigger/sql-injection)
